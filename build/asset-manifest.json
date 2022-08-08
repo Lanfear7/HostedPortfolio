@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b57e391e.css",
+    "main.js": "/static/js/main.560c3357.js",
+    "static/js/787.146a3669.chunk.js": "/static/js/787.146a3669.chunk.js",
+    "static/media/project3-001.png": "/static/media/project3-001.609442c1d4496dc272c1.png",
+    "static/media/project1-003.png": "/static/media/project1-003.becde69f16495eff415d.png",
+    "static/media/project3-002.png": "/static/media/project3-002.8c01f2f71b5f11a40795.png",
+    "static/media/project1-002.png": "/static/media/project1-002.0657da293af83bce95b3.png",
+    "static/media/project1-001.png": "/static/media/project1-001.f77d0389fede21fc8081.png",
+    "static/media/project3-003.png": "/static/media/project3-003.e10ccbb485ab234dd2c6.png",
+    "static/media/project3-004.png": "/static/media/project3-004.269bbe30d83732b0ee7b.png",
+    "static/media/project2-003.png": "/static/media/project2-003.aaddca03bfef38889535.png",
+    "static/media/project2-001.png": "/static/media/project2-001.d25f884da0ebbf418a88.png",
+    "static/media/html.png": "/static/media/html.959fe43ec865d53a373e.png",
+    "static/media/spring.png": "/static/media/spring.93de6813f5dfb2386e90.png",
+    "static/media/JSlogo.png": "/static/media/JSlogo.7bf5c30e14c6cadee7b5.png",
+    "static/media/project1-004.png": "/static/media/project1-004.9b497b45f325da140d14.png",
+    "static/media/project2-002.png": "/static/media/project2-002.2da7217b4cd33fa00293.png",
+    "static/media/project2-004.png": "/static/media/project2-004.709e8ee0e8813ec561a5.png",
+    "static/media/mysql.png": "/static/media/mysql.78d79d9488280bd5f81d.png",
+    "static/media/node.png": "/static/media/node.5766a818aebf8a123531.png",
+    "static/media/css.png": "/static/media/css.9ef90ca5dad8a78159c2.png",
+    "static/media/whiteScssLogo.png": "/static/media/whiteScssLogo.025d9881c518e019994e.png",
+    "static/media/express.png": "/static/media/express.764c94be75d76acae079.png",
+    "static/media/emailjs.png": "/static/media/emailjs.0b28c492eadc89d821d6.png",
+    "index.html": "/index.html",
+    "main.b57e391e.css.map": "/static/css/main.b57e391e.css.map",
+    "main.560c3357.js.map": "/static/js/main.560c3357.js.map",
+    "787.146a3669.chunk.js.map": "/static/js/787.146a3669.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b57e391e.css",
+    "static/js/main.560c3357.js"
+  ]
+}
